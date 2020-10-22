@@ -1,9 +1,9 @@
 ---
-title: Built For Speed
-subtitle: Awake is Built to Be Blazing Fast
+title: It is not the size of the dog
+subtitle: in the fight, but the size of the fight in the dog
 category:
   - About Awake
-author: Daniel Kelly
+author: AN
 date: 2019-08-02T04:27:56.800Z
 featureImage: /uploads/marc-olivier-jodoin-nqoinj-ttqm-unsplash.jpg
 ---
